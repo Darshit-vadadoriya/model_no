@@ -199,3 +199,8 @@ app_license = "MIT"
 # auth_hooks = [
 #	"model_no.auth.validate"
 # ]
+
+
+fixtures = [
+    {"dt": "Item Group"},
+]
