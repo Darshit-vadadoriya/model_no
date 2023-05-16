@@ -203,5 +203,6 @@ app_license = "MIT"
 
 fixtures = [
     {"dt": "Item Group"},
+    {"dt": "Category Detail"},
     
 ]
