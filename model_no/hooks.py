@@ -202,7 +202,6 @@ app_license = "MIT"
 
 
 fixtures = [
-    
-    {"dt": "Category Detail"},
+    {},
     
 ]
